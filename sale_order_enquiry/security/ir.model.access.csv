@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_order_enq,access.order.enq,model_order_enq,,1,1,1,1
+access_order_enq_lines,access.order.enq.lines,model_order_enq_lines,,1,1,1,1
+access_sale_line_wizard,access.sale.line.wizard,model_sale_line_wizard,,1,1,1,1
+access_product_add_wizard,access.product.add.wizard,model_product_add_wizard,,1,1,1,1
